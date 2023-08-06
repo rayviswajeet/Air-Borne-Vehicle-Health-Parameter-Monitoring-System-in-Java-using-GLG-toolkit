@@ -1,5 +1,3 @@
-
-
 import java.io.FileReader;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
