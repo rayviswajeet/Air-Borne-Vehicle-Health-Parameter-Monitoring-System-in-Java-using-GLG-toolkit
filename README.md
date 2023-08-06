@@ -14,4 +14,5 @@ With its customizable and scalable nature, the Airborne Vehicle Health Parameter
 Monitoring System provides a valuable solution for effectively monitoring and managing 
 critical health parameters in airborne vehicles
 
+
   ![Screenshot](https://github.com/rayviswajeet/Air-Borne-Vehicle-Health-Parameter-Monitoring-System-in-Java-using-GLG-toolkit/assets/71357851/bbfe326c-d054-4226-a4fe-b2be43347ca4)
